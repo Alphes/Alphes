@@ -17,4 +17,4 @@
 [twitter]:https://twitter.com/EsmaKocatas
 [linkedin]: https://www.linkedin.com/in/esma-nur-kocata%C5%9F-6891bb148/
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username= &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alphes&theme=radical)
