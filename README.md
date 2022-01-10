@@ -1,16 +1,16 @@
-<img src="https://media.giphy.com/media/QPy8RAg2mR7CU/giphy.gif" align ="right" width="200" height= "350">
+<img src="https://media.giphy.com/media/QPy8RAg2mR7CU/giphy.gif" align ="right" width="300" height= "350">
 
-Hi there, I'm Esma✨ 
+## Hi there, I'm Esma✨ 
 
 
-##### Game Developer | Computer Engineer Student
+### Game Developer | Computer Engineer Student
 <br />
 <br />
 
-####      ***Reach out to me***
-#####  Linkedin  :   [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align = "center"/>][linkedin]
-#####  Instagram  : [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" align="center"   />][instagram]
-#####  Twitter  : [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" align="center"   />][twitter]
+###      ***Reach out to me***
+####  Linkedin  :   [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align = "center"/>][linkedin]
+####  Instagram  : [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" align="center"   />][instagram]
+#### Twitter  : [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" align="center"   />][twitter]
 
 
 [instagram]: https://www.instagram.com/kocatasesmanur/
