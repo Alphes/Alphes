@@ -16,5 +16,6 @@
 [instagram]: https://www.instagram.com/kocatasesmanur/
 [twitter]:https://twitter.com/EsmaKocatas
 [linkedin]: https://www.linkedin.com/in/esma-nur-kocata%C5%9F-6891bb148/
+<br  />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alphes&theme=radical align="center")
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alphes&theme=radical)
