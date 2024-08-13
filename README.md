@@ -3,5 +3,5 @@
 ## Hi there, I'm Esma✨ 
 
 
-### Game Developer | Computer Engineer Student
+### Game Developer | Computer Engineer
 
